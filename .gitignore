@@ -1,0 +1,6 @@
+build
+dist
+index.spec
+src/*/__pycache__
+export
+res/bd.json
